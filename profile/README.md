@@ -4,12 +4,12 @@
 
 ## What we run
 
-- 🐧 **Linux** — baseline hardening, orchestration, package lifecycle
-- 🪟 **Windows** — Active Directory operations, compliance, password lifecycle
-- 🌐 **Network** — Cisco, Aruba, Fortinet (FortiManager + FortiGate firewall)
-- 💻 **Virtualization** — VMware vSphere credentials, Cyllene, VxRail
-- 🎫 **Service Desk** — automated user provisioning and password reset workflows
-- 🌍 **Africa infrastructure** — country-specific operations across the AGL footprint
+- 🐧 **Linux**: baseline hardening, orchestration, package lifecycle
+- 🪟 **Windows**: Active Directory operations, compliance, password lifecycle
+- 🌐 **Network**: Cisco, Aruba, Fortinet (FortiManager + FortiGate firewall)
+- 💻 **Virtualization**: VMware vSphere credentials, Cyllene, VxRail
+- 🎫 **Service Desk**: automated user provisioning and password reset workflows
+- 🌍 **Africa infrastructure**: country-specific operations across the AGL footprint
 
 ## Standards
 
@@ -24,7 +24,7 @@ Every repository in this org follows:
 
 ## Repository naming
 
-`ansible-<domain>-<function>` — for example `ansible-network-fortimanager`, `ansible-windows-operations`.
+`ansible-<domain>-<function>`. For example: `ansible-network-fortimanager`, `ansible-windows-operations`.
 
 ## Operations platform
 
